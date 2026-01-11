@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with front-end and functional programming <br>🌱 I’m currently learning Java and react <br>⚡ Fun fact you didn't read it all the way though
+<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with front-end and functional programming <br>🌱 I’m currently learning Java and react <br>⚡ data science and machine learning enthusiast
 
 
 ## 🌐 Socials:
