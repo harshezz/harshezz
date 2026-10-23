@@ -1,101 +1,201 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=Harsh%20Sharma&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Gen%20AI%20developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Harsh Sharma banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0b8793&height=230&section=header&text=Harsh%20Sharma&fontSize=62&fontColor=ffffff&fontAlignY=35&fontStyle=bold&desc=&descSize=20&descAlignY=55&animation=fadeIn&stroke=0b8793&strokeWidth=1" width="100%" alt="Header"/>
 </div>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0b8793&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%A4%96+Gen+AI+Developer+%7C+Agentic+AI+Enthusiast;%E2%98%95+Java+%2B+Spring+Boot+%7C+Building+Autonomous+Agents;%F0%9F%9A%80+Turning+Raw+Data+into+Intelligent+Action" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshezz/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshsharma4424@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshezz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:harshsharma4424@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Harshezz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshezz&style=for-the-badge&color=0b8793&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
-</div>
+---
 
-### About
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-"Java Developer | GenAI & Agentic AI Enthusiast 🤖 | Building autonomous agents with LLMs & Spring Boot | Turning
-  ▎ raw data into intelligent action. ☕✨"
+```yaml
+name: Harsh Sharma
+location: Delhi, India 📍
+education: MCA — Harcourt Butler Technical University 🎓
+currently_learning: Gen AI & Agentic AI Systems 🤖
+interests:
+  - Building autonomous agents with LLMs
+  - Spring Boot microservices
+  - Full-stack development
+fun_fact: Caffeine keeps me charged ☕⚡
+languages_spoken:
+  english: Native 🇬🇧
+  hindi: Native 🇮🇳
+  german: Basic 🇩🇪
+```
 
-- ⌖ **Location** · Delhi
-- ◎ **Education** · MCA-Harcourt Butler Technical university
-- ⟳ **Learning** · GEN AI
-- ✦ **Fun fact** · Caffiene keeps me charged
+---
 
-### Stack
+## 🏆 GitHub Trophies
 
-**Languages**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshezz&theme=algolia&no-frame=true&no-bg=true&column=-1&margin-w=10" alt="Trophies"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,java,bash&theme=dark" alt="Languages"/>
+---
 
-**Frontend**
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔤 Languages</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend & Databases</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <h3>☁️ DevOps & Cloud</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🤖 AI / ML</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-**Backend & Databases**
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,mongodb,spring&theme=dark" alt="Backend & Databases"/>
+## 📊 GitHub Stats
 
-**DevOps & Cloud**
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harshezz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0b8793&icon_color=0b8793&text_color=c9d1d9&ring_color=0b8793" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="49%" src="https://streak-stats.demolab.com?user=Harshezz&theme=algolia&hide_border=true&background=0d1117&stroke=0b8793&ring=0b8793&fire=FF6F00&currStreakLabel=0b8793&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git&theme=dark" alt="DevOps & Cloud"/>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshezz&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0b8793&text_color=c9d1d9" alt="Top Languages"/>
+</p>
 
-**AI / ML**
+---
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,jupyter,numpy&theme=dark" alt="AI / ML"/>
+## 📈 Contribution Graph
 
-### Languages
-- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
-- 🌐 **Hindi** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
-- 🇩🇪 **German** · ![Basic](https://img.shields.io/badge/-Basic-ff4444?style=flat-square)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshezz&bg_color=0d1117&color=0b8793&line=0b8793&point=ffffff&area=true&area_color=0b8793&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="98%"/>
+</p>
 
-### GitHub Stats
+---
 
-<div align="center">
+## 🐍 Contribution Snake
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshezz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Harsh Sharma stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshezz&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Harsh Sharma top languages"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshezz/Harshezz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshezz/Harshezz/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Harshezz/Harshezz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</p>
 
-</div>
+<details>
+<summary>⚙️ <b>Setup Required for Snake Animation</b></summary>
+<br/>
 
-<div align="center">
+Create `.github/workflows/snake.yml` in your profile repo (`Harshezz/Harshezz`):
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harshezz&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+```yaml
+name: Generate Snake
 
-</div>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-### Activity
+permissions:
+  contents: write
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshezz&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=Harshezz&theme=github-dark&hide_border=true&area=true)
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Harshezz
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-### Now Playing
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
-<div align="center">
+Run the workflow manually once via **Actions → Generate Snake → Run workflow**.
+</details>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
+---
 
-</div>
-
-> Requires [Novatorem](https://github.com/novatorem/novatorem) setup
-
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshezz/Harshezz/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Harshezz/Harshezz/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> Requires GitHub Actions setup
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="Dev Quote"/>
+</p>
 
 ---
 
 <div align="center">
-
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/Harshezz">github.com/Harshezz</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%" alt="Footer wave"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b8793,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
 </div>
